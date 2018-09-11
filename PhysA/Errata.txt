@@ -1,3 +1,0 @@
-The Bob Dylan's phrase that opens my paper is not only about finance: it is about several other things and people, including myself.
-
-While reviewing the codes I used to put them here in a more didactical manner, I spotted a little mistake that changed the results about the VIX and Eigenvalue Entropies. It happens that EE are very well-suited to explain the VIX independently of the period. The dofile is available to replicate the results.
